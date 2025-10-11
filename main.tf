@@ -52,14 +52,3 @@ module "rules" {
   depends_on = [module.rdklib_layer]
 }
 
-# Static rules from terraform.tfvars (commented out)
-# module "static_rules" {
-#   for_each = { for idx, rule in var.rules : idx => rule }
-# 
-#   source                 = "./modules/lambda_config_rule"
-#   lambda_role            = each.value.lambda_role
-#   lambda_parameters      = each.value.lambda_parameters
-#   config_rule_parameters = each.value.config_rule_parameters
-#   additional_permissions = each.value.additional_permissions
-# }
-
