@@ -1,0 +1,10 @@
+region                     = "eu-west-2"
+bucket_name                = "aws-config-yt-bucket"
+config_role_name           = "AWSConfigRoleYt"
+s3_policy_name             = "AWSConfigS3PolicyYt"
+sns_topic_name             = "aws-config-notifications-yt"
+sns_email_addresses        = "ses@awscloudpros.com"
+recorder_name              = "config-recorder-yt"
+delivery_channel_name      = "config-delivery-channel-yt"
+lambda_compatible_runtimes = ["python3.10", "python3.11", "python3.12", "python3.13"]
+layer_name                 = "rdklib"
