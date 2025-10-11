@@ -292,9 +292,10 @@ terraform destroy
 
 ### Terraform Resources
 [![Terraform AWS](https://img.shields.io/badge/Terraform-AWS_Provider-purple?logo=terraform&logoColor=white)](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-[![Terraform Config](https://img.shields.io/badge/Terraform-AWS_Config-purple?logo=terraform&logoColor=white)](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/config_configuration_recorder)est/docs
-- **Terraform AWS Config**: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/config_configuration_recorder
+[![Terraform Config](https://img.shields.io/badge/Terraform-AWS_Config-purple?logo=terraform&logoColor=white)](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/config_configuration_recorder)
 
-## License
+## 📌 Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Oluwaseun Alausa**
+DevOps Engineer | Enabling Secure, Scalable, and Observable Infrastructure
+🚀 [LinkedIn](https://www.linkedin.com/in/alausa-oluwaseun) | [YouTube](https://www.youtube.com/@alausaseun)
